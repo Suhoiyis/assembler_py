@@ -19,6 +19,8 @@ pseudo.py从program.txt中读取汇编语言并进行汇编，再输入到machin
 
 
 
+说实话这个readme写的其实是开发日志
+
 准备再重新做一个说明书：guide manual
 
 
